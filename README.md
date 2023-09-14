@@ -1,4 +1,5 @@
 # todo-app
+<img width="451" alt="iShot_2023-09-14_15 51 06" src="https://github.com/tzuchin1126/todolist/assets/118542088/e14bd23a-1215-41fb-92db-2858623ded8b">
 
 This template should help get you started developing with Vue 3 in Vite.
 
